@@ -240,15 +240,6 @@
 
 ---
 
-## ✅ Quick Setup Checklist
-
-- [ ] Update profile photo + bio in GitHub settings
-- [ ] Create a repo named newbie
-- [ ] Paste this README into that repo
-- [ ] Replace all placeholders
-- [ ] Add your real project repo names and links
-- [ ] Pin your top 4–6 repositories
-- [ ] Add screenshots + READMEs to pinned repos
 
 ---
 
