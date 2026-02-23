@@ -251,3 +251,19 @@
     width="100%"
   />
 </p>
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0f172a&title_color=60a5fa&text_color=e2e8f0&icon_color=3b82f6"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=e2e8f0"
+    alt="Top Languages"
+  />
+</p>
